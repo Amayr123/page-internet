@@ -1,0 +1,28 @@
+h1{
+  color: aqua;
+  background: rgb(255, 0, 0);
+}
+h2{color: rgb(211, 195, 57);}
+body{
+  background:rgb(200, 28, 28) ;
+}
+li{
+  text-decoration: none;
+  list-style: none;
+  display: inline;
+  padding: 20px;
+  size: 30;
+}
+div{
+  background: red;
+  padding: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+#image{
+  background: url("./photo\ écureil.jpg");
+  height: 1000px;
+  background-size: cover;
+  padding: 0px;
+  margin: 0px;
+}
